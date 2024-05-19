@@ -2,6 +2,7 @@
 
 🔧 Technologies & Tools
 Languages: Dart, JavaScript, TypeScript
+
 Mobile Development: Flutter, React Native
 
 🌱 Open Source & Learning
