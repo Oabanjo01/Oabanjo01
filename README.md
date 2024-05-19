@@ -1,23 +1,22 @@
-👋 Hi there! I'm a passionate Mobile Developer interested in building high-performance and intuitive mobile applications. Experienced in developing cross-platform solutions using Flutter and React Native. Proficient in Dart, JavaScript, and TypeScript.
+### Hi there 👋, Olabanjo Olakunori
+#### Software engineering and development.
+👋 Hi there! I'm a passionate Mobile Developer with a strong proficiency in Dart, JavaScript, and TypeScript. I specialise in building beautiful and efficient mobile applications using Flutter and React Native.
 
-🔧 Technologies & Tools
+Skills: DART / FLUTTER / JS / TS / REACT NATIVE
 
-Languages: Dart, JavaScript, TypeScript.
-Mobile Development: Flutter, React Native.
-
-🌱 Open Source & Learning - 
-I'm a firm believer in the power of open source and am always eager to contribute to community projects. I love learning new technologies and expanding my skill set. Currently, I'm diving into backend technologies to become a more versatile developer.
-
-💡 Interests & Goals - 
-Open Source: Actively contributing and maintaining projects.
-Backend Development: Enhancing my skills in Node.js and .NET.
-Native Development: Exploring Swift for iOS and Kotlin for Android to build more robust native applications.
-
-📫 Let's Connect! You can reach me on banjolakunri@gmail.com - 
-I'm always open to new opportunities, collaborations, and learning experiences. Feel free to reach out!
+- 🔭 I’m currently working on Projects in TS, JS and React Native. 
+- 🌱 I’m currently learning Typescript, Javascript and React Native. 
+- 👯 I’m looking to collaborate on React Native and Flutter Projects. 
+- 💬 Ask me about React Native, Typescript and Flutter 
+- 📫 How to reach me: banjolakunri@gmail.com 
+- ⚡ Fun fact: I love history podcasts and documentaries, like a lit. 
 
 
-<!---
-Oabanjo01/Oabanjo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Oabanjo01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/olabanjo-olakunori-1ab915189//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17521845)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oabanjo01)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oabanjo01&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Oabanjo01)  
+
