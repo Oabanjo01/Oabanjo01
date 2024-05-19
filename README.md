@@ -1,6 +1,7 @@
 👋 Hi there! I'm a passionate Mobile Developer interested in building high-performance and intuitive mobile applications. Experienced in developing cross-platform solutions using Flutter and React Native. Proficient in Dart, JavaScript, and TypeScript.
 
-🔧 Technologies & Tools - 
+🔧 Technologies & Tools
+
 Languages: Dart, JavaScript, TypeScript.
 Mobile Development: Flutter, React Native.
 
