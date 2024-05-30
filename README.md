@@ -13,7 +13,7 @@ Skills: DART / FLUTTER / JS / TS / REACT NATIVE
 - 👯 I’m looking to collaborate on React Native and Flutter Projects. 
 - 💬 Ask me about React Native, Typescript and Flutter 
 - 📫 How to reach me: banjolakunri@gmail.com 
-- ⚡ Fun fact: I love history podcasts and documentaries, like a lit. 
+- ⚡ Fun fact: I love history podcasts and documentaries, like a lot. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Oabanjo01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/olabanjo-olakunori-1ab915189//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17521845)  
