@@ -6,7 +6,7 @@
 I’m a software engineer who loves building sleek, efficient, and user-friendly products.  
 Most of my work lives in the **mobile and web world**, where I bring ideas to life with **React Native, Flutter, React, and Next.js**.  
 
-💻 Check out my new portfolio → [banjo-portfolio](https://banjo-portfolio.vercel.app/)
+💻 Check out my new portfolio → [banjo-portfolio](https://portfolio-lac-eight-11.vercel.app/)
 
 ---
 
