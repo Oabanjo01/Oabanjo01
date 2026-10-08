@@ -14,9 +14,9 @@ I'm tool-agnostic. I start from the problem and choose what it needs, whether th
 **What I'm focused on now**
 - 🤖 Bringing AI into real products and engineering workflows
 - 🧠 Helping establish a Data and AI community of practice at work
-- 📊 MSc in Data Science Management, completing October 2026
+- 📊 MSc in Data Science Management
 - ☁️ Google Cloud Certified Associate Cloud Engineer
-- 🌱 Going deeper on native Android with Kotlin
+- 🌱 Going deeper on native Android with Kotlin, Golang
 
 **How I work**
 - When money moves, correctness and security come first
@@ -30,7 +30,7 @@ I'm tool-agnostic. I start from the problem and choose what it needs, whether th
 
 | Area | Tools |
 | --- | --- |
-| Languages | TypeScript · JavaScript · Python · Kotlin · Dart · Swift |
+| Languages | TypeScript · JavaScript · Python · Kotlin · Dart · Golang |
 | Clients | React Native · React · Next.js · Flutter |
 | Backend and data | Node.js · FastAPI · PostgreSQL · MongoDB · REST · GraphQL · WebSockets |
 | Cloud and delivery | Google Cloud · Azure · GitHub Actions · CircleCI · Xcode Cloud · Sentry |
